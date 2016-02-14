@@ -42,7 +42,6 @@ public class MainPostFragment extends Fragment {
             @Override
             public void onCompleted(Exception e, JsonObject result) {
             textView.setText(result.toString());
-                result = result.
 
 
             }
